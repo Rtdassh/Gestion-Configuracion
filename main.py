@@ -6,7 +6,7 @@ from PIL import Image
 from temas import TemasColores
 from colors import COLOR_OPTIONS, COLOR_NAME_TO_HEX, HEX_TO_COLOR_NAME, DEFAULT_COLOR_NAME, contrast_ratio
 from i18n import I18N
-from settings import DEFAULT_FONT_SIZE, parse_font_size
+from ajustes_fuente import DEFAULT_FONT_SIZE, parse_font_size
 
 # Instancia global de temas
 temas = TemasColores()
