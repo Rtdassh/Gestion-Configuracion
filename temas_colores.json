@@ -1,0 +1,74 @@
+{
+    "tema_claro": {
+        "nombre": "Tema Claro",
+        "descripcion": "Tema claro con colores suaves",
+        "colores": {
+            "bg_principal": "#f5f7fa",
+            "bg_secundario": "#ffffff",
+            "bg_botones": "#e6eef7",
+            "bg_frames": "#f0f4f8",
+            "texto_principal": "#111827",
+            "texto_secundario": "#4b5563",
+            "accent_color": "#2563eb",
+            "accent_hover": "#38a3a5",
+            "borde": "#cbd5e1",
+            "error": "#dc2626",
+            "exito": "#16a34a",
+            "advertencia": "#d97706"
+        }
+    },
+    "tema_oscuro": {
+        "nombre": "Tema Oscuro",
+        "descripcion": "Tema oscuro estándar",
+        "colores": {
+            "bg_principal": "#1e1e1e",
+            "bg_secundario": "#2d2d2d",
+            "bg_botones": "#3d3d3d",
+            "bg_frames": "#252525",
+            "texto_principal": "#ffffff",
+            "texto_secundario": "#cccccc",
+            "accent_color": "#007acc",
+            "accent_hover": "#005a9e",
+            "borde": "#404040",
+            "error": "#ff6666",
+            "exito": "#66cc66",
+            "advertencia": "#ffcc00"
+        }
+    },
+    "tema_azul": {
+        "nombre": "Tema Azul",
+        "descripcion": "Tema con tonos azules y cian",
+        "colores": {
+            "bg_principal": "#1a1a2e",
+            "bg_secundario": "#16213e",
+            "bg_botones": "#0f3460",
+            "bg_frames": "#1a1a2e",
+            "texto_principal": "#ffffff",
+            "texto_secundario": "#a8a8a8",
+            "accent_color": "#4ecdc4",
+            "accent_hover": "#45b7aa",
+            "borde": "#2d3748",
+            "error": "#ff6b6b",
+            "exito": "#4ecdc4",
+            "advertencia": "#ffeaa7"
+        }
+    },
+    "tema_verde": {
+        "nombre": "Tema Verde",
+        "descripcion": "Tema con tonos verdes",
+        "colores": {
+            "bg_principal": "#1a1a1a",
+            "bg_secundario": "#2d2d2d",
+            "bg_botones": "#4a6741",
+            "bg_frames": "#252525",
+            "texto_principal": "#ffffff",
+            "texto_secundario": "#cccccc",
+            "accent_color": "#7cb342",
+            "accent_hover": "#689f38",
+            "borde": "#404040",
+            "error": "#f44336",
+            "exito": "#4caf50",
+            "advertencia": "#ff9800"
+        }
+    }
+}
